@@ -36,4 +36,5 @@ You can use the service tags to define network access controls on [network secur
 
 * [Private endpoints](/power-bi/enterprise/service-security-private-links)
 
-* [Azure IP Ranges and Service Tags – Public Cloud](https://www.microsoft.com/download/details.aspx?id=56519)
+* [Azure IP Ranges and Service Tags – Public Cloud](https://www.microsoft.com/download/details.aspx?id=56519) <br/>You can refer to the `PowerBI` tag. Microsoft Fabric currently does not support regional service tag nor breakdown IP ranges by region.
+  
